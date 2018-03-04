@@ -8,3 +8,12 @@ p {
     margin-left: 10px;
     margin-right: 30px;
 }
+.noticiaDiv{
+	color: white;
+	font-size: 25px; 
+	background-color:#001866;
+	text-indent: 1em;
+}
+.paragrafo{
+font-family: Verdana;font-weight: lighter;font-size: 15px; text-shadow: black 0px 0px 0px;
+}
