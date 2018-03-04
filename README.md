@@ -8,4 +8,4 @@ Cada projeto está dentro de sua respectiva pasta.
 * Jean Francisco Lessa ([supremesonicbrazil](https://github.com/supremesonicbrazil))
 * Michel Schaaf Lessa ([MichelSchaaf](https://github.com/MichelSchaaf))
 * Willians Tadeu Atanazio Augusto ([wiliansaugusto](https://github.com/wiliansaugusto))
-* João Paulo Duarte Mota
+* João Paulo Duarte Mota ([10joaopaulo](https://github.com/10joaopaulo))
