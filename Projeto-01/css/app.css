@@ -1,6 +1,10 @@
 h1 {
   text-align: center; color: #0253BE;
 }
+
+h2 {
+  text-align: center; color: #0253BE;
+}
 p {
     display: block;
     margin-top: 10px;
